@@ -121,5 +121,4 @@ public class MainActivity extends AppCompatActivity {
         btnC.setOnClickListener(btnPlusMinusClean);
         btnPlusminus.setOnClickListener(btnPlusMinusClean);
     }
-
 }
